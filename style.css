@@ -1,0 +1,23 @@
+.country img{
+    height: 250px;
+    width: 300px;
+}
+.country{
+    height: 450px;
+    width: 400px
+    borde;r: 2px solid black;
+    border-radius: 2px;
+    padding: 10px;
+    background-color: rgba(128, 128, 128, 0.479);
+    box-shadow: 33px 19px 52px black;
+    padding: 10px;
+    margin-left: 20px;
+    margin-top: 10px;
+    margin: 10px;
+  
+}
+#user{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 150px;
+}
